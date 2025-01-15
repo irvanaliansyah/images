@@ -1,0 +1,2 @@
+# images
+gambar untuk sosialisasi
